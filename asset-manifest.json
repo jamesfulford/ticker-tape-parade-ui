@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ticker-tape-parade-ui/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ticker-tape-parade-ui/static/js/main.20d29c77.chunk.js",
-    "main.js.map": "/ticker-tape-parade-ui/static/js/main.20d29c77.chunk.js.map",
+    "main.js": "/ticker-tape-parade-ui/static/js/main.432aad77.chunk.js",
+    "main.js.map": "/ticker-tape-parade-ui/static/js/main.432aad77.chunk.js.map",
     "runtime-main.js": "/ticker-tape-parade-ui/static/js/runtime-main.93f42fcf.js",
     "runtime-main.js.map": "/ticker-tape-parade-ui/static/js/runtime-main.93f42fcf.js.map",
     "static/js/2.2ca916b5.chunk.js": "/ticker-tape-parade-ui/static/js/2.2ca916b5.chunk.js",
     "static/js/2.2ca916b5.chunk.js.map": "/ticker-tape-parade-ui/static/js/2.2ca916b5.chunk.js.map",
     "index.html": "/ticker-tape-parade-ui/index.html",
-    "precache-manifest.6485743c6a69eec3b9d0b3f81616acbf.js": "/ticker-tape-parade-ui/precache-manifest.6485743c6a69eec3b9d0b3f81616acbf.js",
+    "precache-manifest.8760c4fc4649193ad0d3834c5ee21e98.js": "/ticker-tape-parade-ui/precache-manifest.8760c4fc4649193ad0d3834c5ee21e98.js",
     "service-worker.js": "/ticker-tape-parade-ui/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/ticker-tape-parade-ui/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.2ca916b5.chunk.js.LICENSE.txt": "/ticker-tape-parade-ui/static/js/2.2ca916b5.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.93f42fcf.js",
     "static/js/2.2ca916b5.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.20d29c77.chunk.js"
+    "static/js/main.432aad77.chunk.js"
   ]
 }

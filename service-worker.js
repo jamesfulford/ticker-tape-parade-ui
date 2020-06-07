@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ticker-tape-parade-ui/precache-manifest.6485743c6a69eec3b9d0b3f81616acbf.js"
+  "/ticker-tape-parade-ui/precache-manifest.8760c4fc4649193ad0d3834c5ee21e98.js"
 );
 
 self.addEventListener('message', (event) => {

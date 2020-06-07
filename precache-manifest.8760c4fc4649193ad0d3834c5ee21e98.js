@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4ea3f22a10eb66f66250549e45e6267",
+    "revision": "8a180e6764c2310c54dc226818807c55",
     "url": "/ticker-tape-parade-ui/index.html"
   },
   {
-    "revision": "73cb5a1593d41eb0299a",
+    "revision": "1d428ad7241718f3adc0",
     "url": "/ticker-tape-parade-ui/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ticker-tape-parade-ui/static/js/2.2ca916b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "73cb5a1593d41eb0299a",
-    "url": "/ticker-tape-parade-ui/static/js/main.20d29c77.chunk.js"
+    "revision": "1d428ad7241718f3adc0",
+    "url": "/ticker-tape-parade-ui/static/js/main.432aad77.chunk.js"
   },
   {
     "revision": "a09c00f1f6535a92452f",
