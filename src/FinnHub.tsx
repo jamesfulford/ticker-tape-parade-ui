@@ -13,7 +13,7 @@ export const FinnHub = () => {
         e.preventDefault();
         setToken(tokenField);
     }}>
-        <code>Please enter token</code>
+        <code>Please enter API token from finnhub.io</code><br />
         <input type="text" onChange={e => setTokenField(e.target.value)} value={tokenField} />
     </form>}
     </>
